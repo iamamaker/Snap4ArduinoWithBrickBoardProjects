@@ -1,6 +1,6 @@
 ArduinoProjectV1.0.0.xml	아두이노 프로젝트 시작하기
 BrickBoardProjectV1.0.1.xml	브릭보드 프로젝트 시작하기
 ---------------------------------------------
-ArduinoExamples_n01.xml	아두이노 예제(13번핀 LED 깜박이기)
+ArduinoExamples_BlinkLED.xml	아두이노 예제(13번핀 LED 깜박이기)
 ControlServoV1.0.2.xml	가변저항(포텐셔미터)으로 서보모터 제어하기
 SoundControlLEDV1.0.1.xml	사운드센서로 LED 제어하기
